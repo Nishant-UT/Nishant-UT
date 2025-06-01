@@ -22,10 +22,6 @@ I'm a Computer Engineering graduate passionate about building tech that solves r
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-### 💻 Skills
-- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SQL
-- **Tools:** Git, Linux, MATLAB, ReactJS, NodeJS, Docker, PowerBI
 - **Domains:** IT Support, Embedded Systems, Machine Learning, Web Dev
 
 ---
@@ -64,7 +60,8 @@ I'm a Computer Engineering graduate passionate about building tech that solves r
 
 ### 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-UT&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-UT&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nishant-UT&theme=tokyonight&hide_border=true)
 
