@@ -67,6 +67,12 @@ I'm a Computer Engineering graduate passionate about building tech that solves r
 
 
 ---
+### 🐍 My Contribution Activity
+
+![Snake animation](https://github.com/Nishant-UT/Nishant-UT/blob/output/github-contribution-grid-snake.svg)
+
+
+---
 
 ### 📫 Let's Connect
 - 📧 Email: nishantvk47@gmail.com  
