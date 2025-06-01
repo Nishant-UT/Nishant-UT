@@ -43,8 +43,12 @@ I'm a Computer Engineering graduate passionate about building tech that solves r
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant-UT&show_icons=true&theme=tokyonight)
+### 📊 GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-UT&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nishant-UT&theme=tokyonight&hide_border=true)
+
 
 ---
 
