@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Nishant Vinaykumar Khairnar
 
-I'm a Computer Engineering graduate passionate about building tech that solves real-world problems. I enjoy working across hardware and software — from debugging systems to creating intelligent ML-powered tools.
+I'm a Computer Engineering graduate passionate about building tech that solves real-world problems. I enjoy working across hardware and software, from debugging systems to creating intelligent ML-powered tools.
 
 ---
 ### 💻 Tech Stack
