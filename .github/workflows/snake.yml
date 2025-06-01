@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to the output branch
+      - name: Push the SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
