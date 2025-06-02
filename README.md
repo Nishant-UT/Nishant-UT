@@ -50,7 +50,7 @@ I'm a Computer Engineering graduate passionate about building tech that solves r
   - Detailed classification report and model interpretability  
 
 - 🎬 **[Netflix Clone](https://github.com/Nishant-UT/Netflix-clone)**  
-  A React.js-based front-end clone of Netflix with Firebase hosting.  
+  A React.js based front-end clone of Netflix with Firebase hosting.  
   Features:
   - Responsive UI replicating Netflix’s modern design  
   - Firebase for real-time data and hosting  
